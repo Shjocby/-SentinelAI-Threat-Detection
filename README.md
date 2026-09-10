@@ -70,10 +70,7 @@ SentinelAI-Threat-Detection/
 │
 ├── docs/
 │   └── SentinelAIv3.pdf
-│
-├── media/
-│   └── Sent_vedio.mp4
-│
+│   └── dashboard.jpg
 ├── LICENSE
 └── README.md
 ```
